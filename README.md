@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://readme-stats-jessicajacelyn.vercel.app/api?username=jessicajacelyn&show_icons=true&theme=dracula&include_all_commits=true)
+
+![Top Langs](https://readme-stats-jessicajacelyn.vercel.app/api/top-langs/?username=jessicajacelyn)
